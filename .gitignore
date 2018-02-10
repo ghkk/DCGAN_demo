@@ -1,7 +1,6 @@
 # Data
 data
 samples
-*.zip
 logs
 test*
 
